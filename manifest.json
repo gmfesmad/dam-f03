@@ -6,7 +6,7 @@
   "display": "standalone",
   "orientation": "portrait",
   "scope": "/",
-  "start_url": "/",
+  "start_url": "https://gmfesmad.github.io/dam-f03/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
