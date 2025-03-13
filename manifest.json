@@ -3,6 +3,7 @@
   "short_name": "Euromilhões",
   "theme_color": "#393998",
   "background_color": "#393998",
+  "display": "standalone",
   "orientation": "portrait",
   "scope": "/",
   "start_url": "https://gmfesmad.github.io/dam-f03/",
